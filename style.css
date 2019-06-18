@@ -38,3 +38,10 @@
     color: black;
     border: solid 1px rgb(200,200,200);
 }
+p {
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.underbuttons {
+    text-align: center;
+}
