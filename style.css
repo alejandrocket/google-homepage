@@ -8,4 +8,21 @@
 .buttons {
     text-align: center;
     margin-top: 10px;
+
+}
+.button {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(100,100,100);
+    font-size: 15px;
+    background-color: rgb(244,244,244);
+    margin: 30px 5px;
+    height: 40px;
+    width: 140px;
+    border: none;
+    border-radius: 5px;
+}
+.button:hover {
+    cursor: pointer;
+    color: black;
+    border: solid 1px rgb(200,200,200);
 }
